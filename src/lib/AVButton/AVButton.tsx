@@ -30,4 +30,3 @@ class AVButton extends React.PureComponent<IProps> {
 }
 
 export default AVButton;
-
